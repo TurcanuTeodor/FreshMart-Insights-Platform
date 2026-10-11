@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/ML-Scikit%20Learn-FA6C2B?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
 </p>
 
-A more strategic name for this project is: <strong>FreshMart Insights Platform</strong>.
+Retail intelligence platform for Romanian commerce and customer analytics.
 
 ## Elevator Pitch
 

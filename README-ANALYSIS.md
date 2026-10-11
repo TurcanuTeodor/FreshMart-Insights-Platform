@@ -2,7 +2,7 @@
 
 ## Technical Analysis Report
 
-This project was designed as a business intelligence and analytics solution for a Romanian retail scenario. It combines data preparation, exploratory analysis, geographic visualization, and predictive modeling to answer real commercial questions: which regions are most profitable, which customer segments drive performance, and which factors influence profitability.
+This project was designed as a business intelligence and analytics solution for a Romanian retail scenario. It combines data preparation, exploratory analysis, geographic visualization, and predictive modeling to answer concrete commercial questions: which regions are most profitable, which customer segments drive performance, and which factors influence profitability.
 
 ---
 
@@ -17,7 +17,7 @@ The main goal of the project was to transform a raw retail dataset into a struct
 - profitability prediction,
 - regression-based profitability modeling.
 
-The project aligns with the practical needs of retail analytics: understanding revenue drivers, identifying risk patterns, and converting historical transactions into actionable insights.
+The project reflects the practical needs of retail analytics: understanding revenue drivers, identifying risk patterns, and converting historical transactions into actionable insights.
 
 ---
 
